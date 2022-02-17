@@ -1,0 +1,25 @@
+p {
+  color:red;
+  background-color: tomato;
+  padding: 100px;
+}
+#unico {
+  color:red;
+}
+.azul {
+  color:blue;
+}
+
+.colores {
+  color:rgb(127, 207, 41);
+}
+.verde {
+  color:#c4a4d2;
+}
+h1 {
+  background-color: orange;
+  /*margin-left: 100px;
+  //margin-bottom: 200px;*/
+  margin: 20px 10px 20px 10px;
+
+}
