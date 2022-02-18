@@ -14,3 +14,13 @@ nav {
   display:flex;
 
 }
+button{
+  background: #404969;
+  color:white;
+}
+button:hover{
+  background: #ff7f50;
+}
+button:active{
+  background: #ff4273;
+}
